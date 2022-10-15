@@ -1,12 +1,12 @@
 {
-  "name": "Footballdee",
+  "name": "Footballdeek",
   "theme": "syntax",
   "version": "0.12.0",
   "description": "แทงบอลโลก อันดับ1 สเต็ปเทพรวมทุกเว็บไซด์",
   "keywords": [
     "multi88"
   ],
-  "repository": "เล่นลิงค์ git ตรงนี้",
+  "repository": "https://github.com/anomarn4dx/atom.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0"
